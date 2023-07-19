@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+  }
+  
+
+  
+  form {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* margin:  auto; */
+  }
+
+  #address{
+    width: 30%;
+  }
+
+#moviePoster{
+  height: 50% !important;
+  width: 50%;
+}
+
+  .row img{
+    height: 80%;
+    width:140px;
+    cursor: pointer;
+  }
